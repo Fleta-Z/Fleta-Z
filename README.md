@@ -11,9 +11,7 @@
 
 <details>
   <summary>${\textsf{\color{#3c4356}Info}}$</summary>
-   <p> wipwipwwipwiwp SHOO </p>
+   <p> this is a wip but dude i spent days trying to figure out how 2 color the txts bc the colors wont show up...it doesnt show up in previws & i jst now know HARSWJKAS </p>
 </details>
 
 </div>
-
-  ${{\color{VioletRed}\Large{\textsf{pmo\ \}}}}\$  <br>
