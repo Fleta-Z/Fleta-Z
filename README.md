@@ -10,7 +10,7 @@
 
 
 <details>
-  <summary>Info</summary>
+  <summary>${\textsf{\color{#3c4356}Info}}$</summary>
    <p> wipwipwwipwiwp SHOO </p>
 </details>
 
