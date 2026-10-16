@@ -11,6 +11,9 @@
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=A04747&style=plastic&label=Cardbots)
 
+</div>
+
+<div align="left">
 <details>
   <summary>${\textsf{\color{#3c4356}Pony town info}}$</summary>
    <p> ${\textsf{\color{#A04747}i am often offtab and might not able to respond properly if not whispered, whisper if you're going to interact. no dnis and i block freely.}}$</p>
