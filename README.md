@@ -8,10 +8,9 @@
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=A04747&style=plastic&label=Cardbots)
 
-
 <details>
   <summary>${\textsf{\color{#3c4356}Pony town info}}$</summary>
-   <p> ${\textsf{\color{#A04747}i am often offtab + might not able to respond properly if not whispered, please whisper if you're going to interact. thank you! i dont have any dnis and block freely.}}$</p>
+   <p> ${\textsf{\color{#A04747}i am often offtab and might not able to respond properly if not whispered, please whisper if you're going to interact. thank you! i dont have any dnis and block freely.}}$</p>
 </details>
 
 </div>
