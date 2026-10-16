@@ -1,6 +1,12 @@
+<table>
+  <tr>
+    <th>
 <p align="center">
   <img src="https://files.catbox.moe/m4b5qu.gif" />
 </p>
+    </th>
+  </tr>
+</table>
 
  <img align="left" height="250" width="250" src="https://i.pinimg.com/736x/f3/e6/8a/f3e68aace23f22e862023ed7576a842e.jpg">
 
