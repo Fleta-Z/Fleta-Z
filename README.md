@@ -1,16 +1,13 @@
+<div align="center">
+
 <table>
   <tr>
     <th>
-<p align="center">
-  <img src="https://files.catbox.moe/7hokrm.gif" />
-</p>
+   <img align="center" height="200" width="300" src="https://i.pinimg.com/736x/d2/95/28/d2952862730f30aedf74b85238b3498d.jpg" />
     </th>
   </tr>
 </table>
 
- <img align="left" height="250" width="250" src="https://i.pinimg.com/736x/f3/e6/8a/f3e68aace23f22e862023ed7576a842e.jpg">
-
-<div align="center">
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=A04747&style=plastic&label=Cardbots)
 
