@@ -2,7 +2,7 @@
   <tr>
     <th>
 <p align="center">
-  <img src="https://64.media.tumblr.com/f4df73c03a11335293e29d76a6ba4401/db6d06fc6d6f7385-36/s1280x1920/ec588466013df9ba40dd98c8876eae200591f1aa.gifv" />
+  <img src="https://files.catbox.moe/7hokrm.gif" />
 </p>
     </th>
   </tr>
