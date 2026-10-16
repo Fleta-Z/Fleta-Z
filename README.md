@@ -11,8 +11,8 @@
 
 <details>
   <summary>${\textsf{\color{#3c4356}Pony town info}}$</summary>
-   <p> i am often offtab & might not able to respond properly if not whispered, please whisper if you're going to interact. thank you!
-   i dont mind friend rqs; although give me heads up && c*h with me freely! i dont mind and actually like it ^_^. i dont have any dnis and block freely.</p>
+   <p> ${\textsf{\color{#A04747}i am often offtab & might not able to respond properly if not whispered, please whisper if you're going to interact. thank you!
+   i dont mind friend rqs; although give me heads up && c*h with me freely! i dont mind and actually like it ^_^. i dont have any dnis and block freely.}}$</p>
 </details>
 
 </div>
