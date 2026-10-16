@@ -10,8 +10,9 @@
 
 
 <details>
-  <summary>${\textsf{\color{#3c4356}Info}}$</summary>
-   <p> this is a wip but dude i spent days trying to figure out how 2 color the txts bc the colors wont show up...it doesnt show up in previws & i jst now know HARSWJKAS </p>
+  <summary>${\textsf{\color{#3c4356}Pony town info}}$</summary>
+   <p> i am often offtab & might not able to respond properly if not whispered, please whisper if you're going to interact. thank you!
+   i dont mind friend rqs; although give me heads up && c*h with me freely! i dont mind and actually like it ^_^. i dont have any dnis and block freely.</p>
 </details>
 
 </div>
