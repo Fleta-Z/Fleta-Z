@@ -17,7 +17,7 @@
 <details>
   <summary>${\textsf{\color{#262626}Pony town info}}$</summary>
    <p> ${\textsf{\color{#A04747}i am often offtab and might not able to respond properly if not whispered, whisper if you're going to interact. no dnis and i block freely.}}$
-     ${\textsf{\color{#A04747} inconsistent pony style, im into regi scouts and regi species typa stuff. i can be found in docks, community made maps and spawn but im mostly in docks}}$
+     ${\textsf{\color{#A04747} inconsistent pony style, i dont mind c*h. i can be found in docks, community made maps and spawn but im mostly in docks}}$
    ${\textsf{\color{#A04747}i can be found in docks, community made maps and spawn but im mostly in docks}}$</p>
 </details>
 
