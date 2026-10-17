@@ -9,7 +9,7 @@
 </table>
 
 
- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=A04747&style=plastic&label=Cardbots)
+ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=A04747&style=flat-square&label=Cardbots)
 
 </div>
 
