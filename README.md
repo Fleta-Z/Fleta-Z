@@ -27,7 +27,7 @@
   <summary>${\textsf{\color{#262626}Basic info}}$</summary>
    <p> ${\textsf{\color{#EEDF7A} Treszka / Sanctuent, i often go by whisper and fleta z sometimes,}}$
      ${\textsf{\color{#EEDF7A} i use he / they / hy. use masc or neu terms on me}}$
-   ${\textsf{\color{#EEDF7A}i struggle with social interactions and talking, so please be patient tank u}}$
+   ${\textsf{\color{#EEDF7A}i struggle with social interactions and talking, so please be patient tank u. i also really like fleta z.can u tlel}}$
 </details>
 
 </div>
